@@ -7,7 +7,7 @@ To demonstrate the use of **scalar**, **correlated**, and **nested subqueries** 
 - DB Browser for SQLite / MySQL Workbench
 
 ## 📁 Files Included
-- `nested_subqueries_task6.sql` – Contains all SQL queries using subqueries and nested logic.
+- `subquery_exercises.sql` – Contains all SQL queries using subqueries and nested logic.
 
 ## 📌 Key Concepts Practiced
 - Scalar Subqueries
